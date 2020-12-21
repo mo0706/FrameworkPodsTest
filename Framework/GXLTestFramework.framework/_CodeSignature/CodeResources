@@ -4,26 +4,71 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/DemoFramwork.h</key>
+		<key>Headers/GXLTestFramework.h</key>
 		<data>
-		p3pv/sOV1yYsSEQMCa/OCH5vCjM=
+		+qDpUDH8kXeX0jKdvdmbX7RhhIs=
+		</data>
+		<key>Headers/TestTool.h</key>
+		<data>
+		LjbHKMxtNbDNKTxkdMf36+bgGgc=
+		</data>
+		<key>Headers/TestView.h</key>
+		<data>
+		scy2zicQdL4V1oJSNuJyMUazPMA=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		J8jHXWpmOO2j4TGZQGQFIMMmAaQ=
+		4/U2mj//a5jsJleP3W/FEeYrFM0=
+		</data>
+		<key>Modules/module.modulemap</key>
+		<data>
+		rVrEKAlAUFqc0xxnOaYTh4DHGTA=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/DemoFramwork.h</key>
+		<key>Headers/GXLTestFramework.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			p3pv/sOV1yYsSEQMCa/OCH5vCjM=
+			+qDpUDH8kXeX0jKdvdmbX7RhhIs=
 			</data>
 			<key>hash2</key>
 			<data>
-			MFeO5T+SADWzG2bgq66wrat3Ywpfa5yk3B+cdagNFBc=
+			fJqwDrqYcoVa0CwWqj9r87+2oyCak6okR8Jvr9nIIa4=
+			</data>
+		</dict>
+		<key>Headers/TestTool.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LjbHKMxtNbDNKTxkdMf36+bgGgc=
+			</data>
+			<key>hash2</key>
+			<data>
+			R46HJygnKJ9ly+Z/kINKx3QpE+05BTaTB6EHzPWJ/0M=
+			</data>
+		</dict>
+		<key>Headers/TestView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			scy2zicQdL4V1oJSNuJyMUazPMA=
+			</data>
+			<key>hash2</key>
+			<data>
+			448r5YOBLjZZmI9A1AyWA3aViL3KLIEJnefokSNmdiM=
+			</data>
+		</dict>
+		<key>Modules/module.modulemap</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rVrEKAlAUFqc0xxnOaYTh4DHGTA=
+			</data>
+			<key>hash2</key>
+			<data>
+			3/zz71/15nr112cutAK/bJW5UChYFg1pOOKqnJ6QCbs=
 			</data>
 		</dict>
 	</dict>
